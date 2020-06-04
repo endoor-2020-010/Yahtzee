@@ -1,0 +1,88 @@
+
+
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+h1 {
+  margin: 0% auto 3%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  margin: auto;
+  color: rgb(41, 66, 58);
+  text-align: center;
+}
+
+.btn {
+  margin: 1% auto;
+  background-color: #4ECCA3;
+  border-color: #4ECCA3;
+}
+
+.btn-xl {
+  background-color: #4ECCA3;
+  border-color: #4ECCA3;
+  padding: 10px 20px;
+  font-size: 2em;;
+  font-family: 'Lobster', cursive;
+  border-radius: 10px;
+  width:25%; 
+}
+
+.btn-xl:hover, .btn:hover  {
+  background-color: rgb(71, 177, 106) !important;
+  border-color: rgb(71, 177, 106) !important;
+}
+
+#scoreSheet {
+
+}
+
+#rollWrap {
+  margin: 5% auto 0%;
+}
+
+#holdButtonsWrap {
+	width: 450px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.holdButtons {
+  margin: 0 20%;
+}
+
+#diceSection {
+  background-color: #393E46;
+  margin-top: 0% auto;
+}
+
+.container {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  width: 450px;
+  text-align: center;
+  display: inline-block;
+  background-color: #393E46;
+}
